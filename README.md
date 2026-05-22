@@ -1,2 +1,0 @@
-# ghostedbymonday.pitch
-Pitch deck
